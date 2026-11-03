@@ -18,5 +18,4 @@ Your settings and memory are kept.
 
 ## License
 
-Summer is based on Mark LVI by [FatihMakes](https://www.youtube.com/@FatihMakes), licensed under
-[CC BY-NC 4.0](LICENSE). Non-commercial use only.
+Copyright © 2026 Sarmad & Othman. All rights reserved — see [LICENSE](LICENSE).
